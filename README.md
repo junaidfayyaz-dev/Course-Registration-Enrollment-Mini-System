@@ -1,4 +1,4 @@
-# Course Registration & Enrollment Mini-System (Assignment 3)
+# Course Registration & Enrollment Mini-System 
 
 ## Project structure
 - `backend` - Spring Boot + Spring Data JPA + REST
